@@ -19,3 +19,8 @@ h1 {
 .button:hover {
   background-color: burlywood;
 }
+footer {
+  color:white;
+  position:relative;
+  Left: 550px
+}
